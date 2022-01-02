@@ -1,0 +1,120 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    .area{
+        width: 970px;
+    }
+
+    .menu{
+        width: 650px;
+    }
+
+    
+    .single_service{
+        width: 303px;
+    }
+
+    .about-left{
+        width: 685px;
+      
+    }
+
+    .about-menu{
+        width: 255px;
+    }
+
+    .service-page .single_service{
+        width: 220px;
+    }
+    
+    .single-gallery{
+        width: 220px;
+    }
+
+    .contact-form {
+        width: 600px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .area{
+        width: 750px;
+    }
+
+    .menu{
+        width: 617px;
+    }
+
+    
+    .single_service {
+        width: 228px;
+    }
+
+    .about-left{
+        width: 460px;
+      
+    }
+
+    .about-menu{
+        width: 255px;
+    }
+
+    .service-page .single_service{
+        width: 165px;
+    }
+    
+    .single-gallery{
+        width: 165px;
+    }
+
+    .contact-form {
+        width: 395px;
+    }
+}
+
+
+@media only screen and (max-width: 767px){
+    .area{
+        width: 340px;
+    }
+
+    .menu{
+        width: 100%;
+    }
+
+    .title h4 {
+        font-size: 26px;
+        margin: 25px 0;
+    }
+
+    .single_service {
+        width: 100%;
+        margin-bottom: 30px;
+
+    }
+
+    .about-left {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .about-menu{
+        width: 100%;
+    }
+    
+    .service-page .single_service{
+        width: 100%;
+    }
+
+    .single-gallery{
+        width: 100%;
+    }
+
+    .contact-form {
+        width: 100%;
+    }
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px){
+    .area{
+        width: 450px;
+    }
+}
